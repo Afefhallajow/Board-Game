@@ -1,0 +1,46 @@
+
+.root{
+    -fx-background-color: linear-gradient(#61a2b1,#2A5058);
+    
+    
+}
+.label{
+    -fx-font-size:12px;
+    -fx-font-width:blod;
+    -fx-text-fill: #0E1D33;
+    
+}
+.list-cell:filled:selected {
+    -fx-background-color: gray;
+    
+}
+
+.button{
+    -fx-background-color: linear-gradient(#61a2b1,#2A5058);
+    -fx-border-width: 0.5 ;
+    -fx-border-color: white;
+    
+    -fx-text-fill: white;
+    -fx-fill-width: bold;
+    -fx-font-family:"Arial Narrow";
+    
+}
+
+
+.list-view{
+    -fx-background-color: #61a2b1;
+    -fx-border-width: 0.5 ;
+    -fx-border-color: white;
+    
+    
+}
+
+.list-cell{
+    
+    -fx-background-color: #61a2b1;
+    -fx-text-fill: white;
+    -fx-fill-width: bold;
+    -fx-font-family:"Arial Narrow";
+    
+}
+

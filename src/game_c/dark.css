@@ -1,0 +1,62 @@
+
+.root{
+    -fx-background-color:#1d1d1d;
+    
+}
+
+.label{
+    -fx-font-size:12px;
+    -fx-font-width:blod;
+    -fx-text-fill: white;
+    -fx-font-family:"Segoe UI Semiblod";
+    -fx-opacity:0.6;
+}
+
+
+.button{
+    -fx-background-color:black;
+    -fx-border-width: 0.5 ;
+    -fx-border-color: #1d1d1d;
+    -fx-text-fill: white;
+    -fx-fill-width: bold;
+    -fx-font-family:"Segoe UI Semiblod";
+    
+}
+
+#buttons_board{
+    -fx-background-color:#1d1d1d;
+    -fx-border-width: 0.5 ;
+    -fx-border-color: #1d1d1d;
+    
+    
+}
+
+#buttons_board2{
+    -fx-background-color:#1d1d1d;
+    -fx-border-width: 0.5 ;
+    -fx-border-color: #1d1d1d;
+    
+    
+}
+
+.list-view{
+    -fx-background-color: black;
+    
+    
+    
+}
+
+.list-cell:filled:selected {
+    -fx-background-color: gray;
+    
+}
+
+.list-cell{
+    
+    -fx-background-color: black;
+    -fx-text-fill: white;
+    -fx-fill-width: bold;
+    -fx-font-family:"Segoe UI Semiblod";
+    
+}
+
